@@ -1,0 +1,6 @@
+&Grid_Params
+x_min = 0.0
+x_max = 6.283185307179586
+Nx = 10
+Ngz = 2
+/
