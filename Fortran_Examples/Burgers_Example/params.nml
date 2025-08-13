@@ -1,0 +1,12 @@
+&Grid_Params
+x_min = 0.0
+x_max = 6.283185307179586
+Nx = 2000
+Ngz = 2
+Nvar = 1
+/
+
+&Sim_Params
+t0 = 0.0
+tend = 20.0
+/
